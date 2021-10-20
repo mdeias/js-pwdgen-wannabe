@@ -14,9 +14,13 @@
     transform: 5s;
 }
 
+.container h1{
+    margin-bottom: 100px;
+}
+
 #dati{
     border: 3px solid black;
-    width: 350px;
+    width: 50%;
     text-align: center;
     padding: 30px;
     font-size: 20px;
