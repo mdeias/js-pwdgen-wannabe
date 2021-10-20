@@ -13,3 +13,8 @@ console.log(firstname);
 console.log(surname);
 console.log(color);
 
+document.getElementById("dati").innerHTML =
+`
+Password: ${firstname}${surname}${color}21
+
+`;
